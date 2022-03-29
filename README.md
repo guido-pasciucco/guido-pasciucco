@@ -2,7 +2,7 @@
 ## Frontend Developer from Argentina 🇦🇷
 
 - 🔭 I’m currently working as a **Javascript Tutor** @ **Coderhouse**
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Development - MERN Stack**
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
