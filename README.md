@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a **Javascript Tutor** @ **Coderhouse**
 - 🌱 I’m currently learning **Backend Development - MERN Stack**
 
-### ¿Qué tecnologías domino? 
+### My stack 
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-### Sigamos en contacto 📲
+### Let's keep in touch! 📲
 
 - LinkedIn: [https://www.linkedin.com/in/guido-pasciucco/](https://www.linkedin.com/in/guido-pasciucco/)
 - E-mail: guidopasciucco@gmail.com
@@ -25,9 +25,6 @@
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 </div>
-
-
-
 
 
 <!--
