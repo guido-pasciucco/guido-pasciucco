@@ -1,7 +1,7 @@
 # Hi there 👋 i'm **Guido Pasciucco**
 ### Front end Developer from Argentina 🇦🇷
 
-- 🔭 I’m currently working as a **Javascript Tutor** @ **Coderhouse**
+- 🔭 I’m currently working as a **Javascript Tutor** @ **Coderhouse** one of top e-Learning platforms in Latin America
 - 🌱 I’m currently learning **Backend Development - MERN Stack**
 
 ### My stack 
