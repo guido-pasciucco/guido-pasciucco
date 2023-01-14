@@ -1,5 +1,5 @@
 # Hi there 👋 i'm **Guido Pasciucco**
-### Front end Developer from Argentina 🇦🇷
+### Fullstack Developer from Argentina 🇦🇷
 
 ### My stack 
 
