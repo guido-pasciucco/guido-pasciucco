@@ -1,6 +1,11 @@
 # Hi there 👋 i'm **Guido Pasciucco**
 ### Fullstack Developer from Argentina 🇦🇷
 
+*Open to work! Remote Full-time Front-end Developer*
+
+*Teaching Javascript @ Coderhouse - one of top E-learning platforms in Latin America*
+
+
 ### My stack 
 
 <div align="center">
