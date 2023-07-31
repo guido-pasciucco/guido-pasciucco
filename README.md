@@ -1,12 +1,12 @@
 # Hi there 👋 i'm **Guido Pasciucco**
 ### Fullstack Developer from Argentina 🇦🇷
 
-*Open to work! Remote Full-time Front-end Developer*
-
-*Teaching Javascript @ Coderhouse - one of top E-learning platforms in Latin America +100K students*
+*Open to work! Remote Frontend Web/Mobile Developer - React, Typescript, Python, Kotlin*
 
 *Teaching Frontend Web and Mobile Dev, Unity - C# and Python @ Aprendé Programando - a free and open initiative by Buenos Aires City Hall to give IT Courses to High school students to enhance employability and reduce digital inequality*
  
+*Teaching Javascript @ Coderhouse - one of top E-learning platforms in Latin America +100K students*
+
 ### My stack 
 
 <div align="center">
