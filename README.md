@@ -1,11 +1,7 @@
 # Hi there 👋 i'm **Guido**
 ### Fullstack Developer from Argentina 🇦🇷
 
-*Open to work! Remote Frontend Web/Mobile Developer - React, Typescript, Python, Kotlin*
-
-*Teaching Frontend Web and Mobile Dev, Unity - C# and Python @ Aprendé Programando - a free and open initiative by Buenos Aires City Hall to give IT Courses to High school students to enhance employability and reduce digital inequality*
- 
-*Teaching Javascript @ Coderhouse - one of top E-learning platforms in Latin America +100K students*
+*Open to work!*
 
 ### My stack 
 
@@ -20,8 +16,8 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" />
+     <img src="https://img.shields.io/badge/Django-1572B6?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
  
 </div>
